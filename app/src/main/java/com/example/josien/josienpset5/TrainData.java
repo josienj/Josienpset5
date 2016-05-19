@@ -8,7 +8,7 @@ public class TrainData {
     private String vertrektijd;
     private String eindbestemming;
 
-    public TrainData(String name, String artist){
+    public TrainData(String vertrektijd, String eindbestemming){
         super();
         this.vertrektijd = vertrektijd;
         this.eindbestemming = eindbestemming;
