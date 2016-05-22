@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Josienpset5</string>
+    <string name="search_button">SEARCH</string>
+    <string name="information_text">Search for a century and all artworks of that century will be shown! When you click on the artwork, more information will come!</string>
+    <string name="title">Title</string>
+    <string name="producer">Producer</string>
+    <string name="long_title">Long-title</string>
+    <string name="production_place">Production place</string>
+    <string name="back_to_screen">SEARCH FOR ANOTHER CENTURY</string>
+    <string-array name="centuries">
+        <item>Click here and search for a century!</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
 </resources>
